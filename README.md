@@ -1,2 +1,52 @@
 # Uttamperformance-
 Fit with me
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Uttam Fitness</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+    header { background: #111; color: #fff; padding: 20px; text-align: center; }
+    nav a { margin: 0 15px; text-decoration: none; color: #ff9800; font-weight: bold; }
+    section { padding: 20px; }
+    h2 { color: #333; }
+    footer { background: #111; color: #fff; text-align: center; padding: 10px; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Uttam Fitness</h1>
+    <p>Transform Yourself - Muscle Growth & Fat Loss</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#plans">Plans</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hi, I'm <b>Uttam</b>. Welcome to my fitness website! I provide training, diet plans, and guidance for muscle growth and fat loss.</p>
+  </section>
+
+  <section id="plans">
+    <h2>Training & Diet Plans</h2>
+    <ul>
+      <li><b>Muscle Growth Plan:</b> Strength training + High-protein diet</li>
+      <li><b>Fat Loss Plan:</b> Cardio + Calorie deficit diet</li>
+      <li><b>Custom Plan:</b> Personalized according to your goals</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Follow me on Instagram: <b>@uttamperformance</b></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Uttam Fitness | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
